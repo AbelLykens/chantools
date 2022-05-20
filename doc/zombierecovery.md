@@ -26,6 +26,8 @@ Preparation:
 * If you already have a way to contact your peer you can create your own match
   file (see ["File format" section](#file-format)) and skip to step 3 below.
 
+![Zombierecovery Flow](doc/zombierecovery-flow.png)
+
 Steps:
 1. _(Optional -- only needed if you have no contact with the remote party)_
    Register at [node-recovery.com](https://node-recovery.com). This website
